@@ -26,5 +26,5 @@
   &nbsp&nbsp
   <a href="mailto:kyle.dsouza.official@gmail.com?"><img src ="https://blogger.googleusercontent.com/img/a/AVvXsEi-jac0GFCOtledmy8McYWfPhdLK6jh-XcLt3eX5EBDeW5YzlSnbhP2zv9LOEXb4X4-MAXBXj8dwfR4rxc54TvFltIgQiaYHdFbkSJxKov_Wx1yfMpKsYlAwJe6TUqcu3LS1BQitq6ZCVja47FwbBcVVINVKOXfIMjdycJcNjvOnKGXQaZGZ3xpS7Zrd6g" width= 40</a> 
   &nbsp&nbsp
-  <a href=""><img src ="https://blogger.googleusercontent.com/img/a/AVvXsEi2uOwQOFYC2lTxKMse6A-VUjRmIH7VoVyiwCzQjbeypdz2ycF_UU33TMKHe1g-sw2n9YA10fzUDWMvWuWaA4UvF9WQ7G7d5hyjxHiozunVGFs9zW0IpBcgDyWfM-0tw6q293sSOuiDnc2zP6-bsZcaLfcAX_xW_kWJJZBWyCuyJEa8eZV4445OYSmZ7AE" width= 40</a>
+  <a href="https://kyledsouza.vercel.app/"><img src ="https://blogger.googleusercontent.com/img/a/AVvXsEi2uOwQOFYC2lTxKMse6A-VUjRmIH7VoVyiwCzQjbeypdz2ycF_UU33TMKHe1g-sw2n9YA10fzUDWMvWuWaA4UvF9WQ7G7d5hyjxHiozunVGFs9zW0IpBcgDyWfM-0tw6q293sSOuiDnc2zP6-bsZcaLfcAX_xW_kWJJZBWyCuyJEa8eZV4445OYSmZ7AE" width= 40</a>
   <br>
