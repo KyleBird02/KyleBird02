@@ -15,7 +15,7 @@
 
 I am a **Software Engineer** and **MSCS student at NYU** with a focus on building scalable, data-driven applications. My expertise lies at the intersection of **FinTech** and **Distributed Systems**.
 
-- 💼 **Currently:** Software Engineer at **Octaura**, building the future of electronic trading.
+- 💼 **Last Role:** Software Engineer at **Octaura**, building the future of electronic trading.
 - 🎓 **Education:** Pursuing my Master's in Computer Science at **New York University**.
 - 🛠️ **Building:** High-performance systems using **Spring Boot**, **Kafka**, and **React**.
 - 📍 **Based in:** New York, NY.
